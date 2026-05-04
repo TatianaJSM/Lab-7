@@ -1,10 +1,8 @@
 import { course } from "./data.js";
 import { getTopics, findTopic } from "./utils.js";
-
-import "./SkillCube.js";
-import "./SkillTree.js";
-import "./TopicViewer.js";
-import "./ButtonHighlight.js";
+import { curso } from "./curso.js";
+import { obtenerTemas, buscarTema } from "./tarea.js";
+import { guardarTemaSeleccionado, obtenerTemaSeleccionado } from "./almacenamiento.js";
 
 const tree = document.getElementById("tree");
 const viewer = document.getElementById("viewer");
