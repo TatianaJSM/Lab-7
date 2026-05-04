@@ -10,7 +10,7 @@ export const curso = {
           codigo: "SAQ",
           titulo: "Saque",
           nivel: "Inicial",
-          video: "https://www.youtube.com/embed/dQw4w9WgXcQ",
+          video: "https://www.youtube.com/embed/Ro8UAwYUqCs",
           duracion: "2h 15m",
           descripcion: "Aprende la postura, el lanzamiento del balón y los tipos de saque.",
           highlights: [
@@ -35,7 +35,7 @@ export const curso = {
           codigo: "REC",
           titulo: "Recepción",
           nivel: "Inicial",
-          video: "https://www.youtube.com/embed/dQw4w9WgXcQ",
+          video: "https://www.youtube.com/embed/6LgS8_sD5FY",
           duracion: "2h 40m",
           descripcion: "Entrena la recepción con antebrazos, posición defensiva y control.",
           highlights: [
@@ -60,7 +60,7 @@ export const curso = {
           codigo: "REM",
           titulo: "Remate",
           nivel: "Intermedio",
-          video: "https://www.youtube.com/embed/dQw4w9WgXcQ",
+          video: "https://www.youtube.com/embed/QFBPrfBQq18",
           duracion: "3h 10m",
           descripcion: "Aprende carrera de impulso, salto, golpeo y dirección del remate.",
           highlights: [
@@ -85,7 +85,7 @@ export const curso = {
           codigo: "BLO",
           titulo: "Bloqueo",
           nivel: "Intermedio",
-          video: "https://www.youtube.com/embed/dQw4w9WgXcQ",
+          video: "https://www.youtube.com/embed/16127PpGHxk",
           duracion: "2h 55m",
           descripcion: "Trabaja el salto vertical, lectura del atacante y posición de manos.",
           highlights: [
@@ -110,7 +110,7 @@ export const curso = {
           codigo: "ROT",
           titulo: "Rotaciones",
           nivel: "Avanzado",
-          video: "https://www.youtube.com/embed/dQw4w9WgXcQ",
+          video: "https://www.youtube.com/embed/cY43n8DeNUc",
           duracion: "3h 30m",
           descripcion: "Comprende posiciones, zonas, rotación y orden correcto en cancha.",
           highlights: [
